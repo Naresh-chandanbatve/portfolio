@@ -433,7 +433,7 @@ header .navbar.animate {
 }
 
 #education .card .card-body .education-content a {
-    color: var(--primary-color) !important;
+    /* color: var(--primary-color) !important; */
     text-decoration: none;
     opacity: 0.9;
 }
@@ -607,3 +607,4 @@ header .navbar.animate {
     box-shadow: 0px 8px 56px rgb(15 80 100 / 5%);
     padding: .5rem 1rem;
 }
+
